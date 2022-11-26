@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @gulshank721
-- 👀 I’m interested in Web Develoment
+# 👋 Hi, I’m Gulshan Kumar
+👀 Basically I love to code, worked on some non-profit projects.
+Initially I was working as android app developer but now my interest is exploring towards web app development.
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on any web dev projects.
 - 📫 you can reach me at gulshank721@gmail.com
