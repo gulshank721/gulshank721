@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gulshank721
 - 👀 I’m interested in Web Develoment
-- 🌱 I’m currently learning MEARN Stack
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on any web dev projects.
 - 📫 you can reach me at gulshank721@gmail.com
 
