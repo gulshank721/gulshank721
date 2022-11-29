@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Gulshan Kumar</h1>
-<h4>👀 Basically I love to code, worked on some non-profit projects. Initially I was working as android app developer but now my interest is exploring towards web app development.</h3>
+<h4>👀 Basically I love to code, worked on some non-profit projects. Initially I was Learning as android app developer but now my interest is exploring towards web app development.</h3>
 
 - 🌱 I’m currently learning **MERN STACK**
 
