@@ -20,7 +20,7 @@
 
 | Degree Name                         | University                   | Status         |
 | ----------------------------------- | ---------------------------- | -------------- |
-| Master in Computer Applications     | Banaras Hindu University     | Pursuing       |
+| Master in Computer Applications     | Banaras Hindu University     | Passed in 2023 |
 | Bachelors in Computer Applications. | Magadh University, Bodh Gaya | Passed in 2020 |
 
 <h2 align="left">Languages and Tools:</h2>
