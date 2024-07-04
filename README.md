@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gulshank721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gulshank721" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gulshank721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gulshank721" height="30" width="40" /></a>
+<h3 align="left">Coding Platforms:</h3>
 <a href="https://www.hackerrank.com/@gulshank721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gulshank721" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gulshank721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gulshank721" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<gulshank721>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<gulshank721>/profile" height="30" width="40" /></a>
