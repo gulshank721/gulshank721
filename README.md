@@ -1,9 +1,7 @@
 <h1>Hi 👋, I'm Gulshan Kumar</h1>
-<h4>👀 Basically I love to code, worked on some non-profit projects. Initially I was Learning as android app developer but now my interest is exploring towards web app development.</h3>
+<h4>👀 Basically I love to code, having 1+ year of experience as Full Stack Developer. Worked on numerous projects in tech stacks like React.js, JavaScript, Next.js, Express.js, Python, Flask, Django, MongoDB, MySql, PostgreSql and few other.</h3>
 
-- 🌱 I’m currently learning **MERN STACK**
-
-- 👯 I’m looking to collaborate on any **web dev projects**
+- 🌱 I’m currently looking for a opportunity as **Software Developer/Engineer**
 
 - 📫 How to reach me **gulshank721@gmail.com**
 
