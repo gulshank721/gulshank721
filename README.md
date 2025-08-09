@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Gulshan Kumar</h1>
-<h4>👀 Basically I love to code, having 1+ year of experience as Full Stack Developer. Worked on numerous projects in tech stacks like React.js, JavaScript, Next.js, Express.js, Python, Flask, Django, MongoDB, MySql, PostgreSql and few other.</h3>
+<h4>👀 Basically I love to code, having 2+ year of experience as Full Stack Developer. Worked on numerous projects in tech stacks like React.js, JavaScript, Next.js, Express.js, Python, Flask, Django, MongoDB, MySql, PostgreSql and few other.</h3>
 
 - 🌱 I’m currently looking for a opportunity as **Software Developer/Engineer**
 
